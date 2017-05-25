@@ -1,0 +1,123 @@
+/*header*/
+header{
+	font-family: 'Aria', 'Helvetica Neue', Helvetica, sans-serif;
+	text-align: center;
+	font-size: 18px;
+	background-color: #ebebeb;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 35px;
+}
+
+/*Nav*/
+nav{
+	font-family: 'Aria', 'Helvetica Neue', Helvetica, sans-serif;
+	text-align: center;
+	font-size: 18px;
+	background-color: #ebebeb;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 35px;
+}
+
+
+/*Section*/
+section{
+	font-family: 'Aria', 'Helvetica Neue', Helvetica, sans-serif;
+	text-align: center;
+	font-size: 18px;
+	width: 495px;
+	background-color: #ebebeb;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 100px;
+	margin-right: 5px;
+	padding: 30px 5px 5px 5px;
+	float: left;
+	width: 45%;
+}
+
+/*Article*/
+article{
+	font-family: 'Aria', 'Helvetica Neue', Helvetica, sans-serif;
+	color: white;
+	text-align: center;
+	vertical-align: text-top;
+	font-size: 18px;
+	background-color: #777;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 5px 50px 50px 50px;
+	float: initial;
+}
+
+
+#subArtical1{
+	float: initial;
+	color: black;
+	background-color: #ebebeb;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 10px 100px 10px 100px;
+
+}
+
+#subArtical2{
+	float: initial;
+	color: black;
+	background-color: #ebebeb;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding: 10px 100px 10px 100px;
+
+}
+
+
+
+/*Body*/
+body{
+	width: 960px;
+	font-size: 18px;
+	background-color: #777;
+	padding: 5% 0% 0% 15%;
+}
+
+
+/*Aside*/
+aside{
+    font-family: 'Aria', 'Helvetica Neue', Helvetica, sans-serif;
+    text-align: center;
+    /vertical-align: text-top;/
+    font-size: 18px;
+    background-color: #ebebeb;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+    margin-left: 2px;
+    padding: 5px 35px 238px 35px;
+    float: right;
+    width: 24%;
+}
+
+footer{
+	font-family: 'Aria', 'Helvetica Neue', Helvetica, sans-serif;
+	text-align: center;
+	font-size: 18px;
+	background-color: #ebebeb;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 35px;
+	clear: both;
+}
